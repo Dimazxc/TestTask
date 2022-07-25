@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XmlParserTask.UI/1.0.0": {
+        "dependencies": {
+          "XmlParserTask.Business.Contracts": "1.0.0",
+          "XmlParserTask.Business.Internal": "1.0.0"
+        },
+        "runtime": {
+          "XmlParserTask.UI.dll": {}
+        }
+      },
+      "XmlParserTask.Business.Contracts/1.0.0": {
+        "runtime": {
+          "XmlParserTask.Business.Contracts.dll": {}
+        }
+      },
+      "XmlParserTask.Business.Internal/1.0.0": {
+        "dependencies": {
+          "XmlParserTask.Business.Contracts": "1.0.0",
+          "XmlParserTask.Common": "1.0.0"
+        },
+        "runtime": {
+          "XmlParserTask.Business.Internal.dll": {}
+        }
+      },
+      "XmlParserTask.Common/1.0.0": {
+        "runtime": {
+          "XmlParserTask.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XmlParserTask.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XmlParserTask.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XmlParserTask.Business.Internal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XmlParserTask.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

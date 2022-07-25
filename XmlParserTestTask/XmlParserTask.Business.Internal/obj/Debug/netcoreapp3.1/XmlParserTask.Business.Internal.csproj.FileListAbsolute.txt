@@ -1,0 +1,15 @@
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.deps.json
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.csproj.AssemblyReference.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.AssemblyInfoInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.AssemblyInfo.cs
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.csproj.CoreCompileInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.csproj.CopyComplete
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Internal.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Common.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Internal\bin\Debug\netcoreapp3.1\XmlParserTask.Common.pdb

@@ -1,0 +1,10 @@
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.deps.json
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\bin\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.AssemblyInfo.cs
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Business.Contracts\obj\Debug\netcoreapp3.1\XmlParserTask.Business.Contracts.csproj.AssemblyReference.cache

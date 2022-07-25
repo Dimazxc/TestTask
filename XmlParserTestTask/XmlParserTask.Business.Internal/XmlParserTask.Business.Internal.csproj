@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XmlParserTask.Business.Contracts\XmlParserTask.Business.Contracts.csproj" />
+    <ProjectReference Include="..\XmlParserTask.Common\XmlParserTask.Common.csproj" />
+  </ItemGroup>
+
+</Project>

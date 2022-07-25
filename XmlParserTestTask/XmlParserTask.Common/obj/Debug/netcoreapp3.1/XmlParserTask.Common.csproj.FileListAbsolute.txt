@@ -1,0 +1,10 @@
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\bin\Debug\netcoreapp3.1\XmlParserTask.Common.deps.json
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\bin\Debug\netcoreapp3.1\XmlParserTask.Common.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\bin\Debug\netcoreapp3.1\XmlParserTask.Common.pdb
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.csproj.AssemblyReference.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.AssemblyInfoInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.AssemblyInfo.cs
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.csproj.CoreCompileInputs.cache
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.dll
+C:\Users\d.sysoy\source\repos\XmlParserTestTask\XmlParserTask.Common\obj\Debug\netcoreapp3.1\XmlParserTask.Common.pdb
